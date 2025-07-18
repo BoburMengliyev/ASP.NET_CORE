@@ -1,0 +1,6 @@
+@GeometryGuruAsyncApi_HostAddress = http://localhost:5223
+
+GET {{GeometryGuruAsyncApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
